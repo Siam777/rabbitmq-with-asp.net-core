@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMXKFj2ruRjQrYPwauF4rmaNG0/eGU878GkraC729WezaQHHwn0vBMxDJBY+8UrMHbDbHugj5R8ZA4QewSC6sw==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\RabbitMQ\\MicroserviceWithRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
