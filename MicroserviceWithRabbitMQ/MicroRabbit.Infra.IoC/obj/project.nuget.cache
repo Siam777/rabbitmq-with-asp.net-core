@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ueevFnf2b9YvVSvKLeVcmtXrfGiJfo4hbMaA+Ej88/ou4KJwKZIZP8JaQ1jurTNkVKDNquvtaz5r8oKrhaLZsQ==",
+  "dgSpecHash": "WLm2FkLaVb2WzNbNpxWoeYYwWDlEwGzQQNGOCSPBTa6WNTXq/v5V9JH1jAoXD58U4urY1PvESJ8cueyQt5WjiA==",
   "success": true,
   "projectFilePath": "D:\\Personal\\RabbitMQ\\MicroserviceWithRabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
