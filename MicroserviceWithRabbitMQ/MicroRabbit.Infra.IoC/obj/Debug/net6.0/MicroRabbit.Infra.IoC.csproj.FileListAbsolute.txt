@@ -1,0 +1,12 @@
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.deps.json
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.dll
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.pdb
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.dll
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\refint\MicroRabbit.Infra.IoC.dll
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.pdb
+D:\Personal\RabbitMQ\MicroserviceWithRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net6.0\ref\MicroRabbit.Infra.IoC.dll
